@@ -12,7 +12,7 @@ import {
   View
 } from 'react-native';
 
-export default class simp extends Component {
+export default class ReactNavigation extends Component {
   render() {
     return (
       <View style={styles.container}>
@@ -50,4 +50,4 @@ const styles = StyleSheet.create({
   },
 });
 
-AppRegistry.registerComponent('simp', () => simp);
+AppRegistry.registerComponent('ReactNavigation', () => ReactNavigation);

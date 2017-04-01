@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-               BuildableName = "simp-tvOS.app"
-               BlueprintName = "simp-tvOS"
-               ReferencedContainer = "container:simp.xcodeproj">
+               BuildableName = "ReactNavigation-tvOS.app"
+               BlueprintName = "ReactNavigation-tvOS"
+               ReferencedContainer = "container:ReactNavigation.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "simp-tvOSTests.xctest"
-               BlueprintName = "simp-tvOSTests"
-               ReferencedContainer = "container:simp.xcodeproj">
+               BuildableName = "ReactNavigation-tvOSTests.xctest"
+               BlueprintName = "ReactNavigation-tvOSTests"
+               ReferencedContainer = "container:ReactNavigation.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -61,9 +61,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "2D02E48F1E0B4A5D006451C7"
-               BuildableName = "simp-tvOSTests.xctest"
-               BlueprintName = "simp-tvOSTests"
-               ReferencedContainer = "container:simp.xcodeproj">
+               BuildableName = "ReactNavigation-tvOSTests.xctest"
+               BlueprintName = "ReactNavigation-tvOSTests"
+               ReferencedContainer = "container:ReactNavigation.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -71,9 +71,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "simp-tvOS.app"
-            BlueprintName = "simp-tvOS"
-            ReferencedContainer = "container:simp.xcodeproj">
+            BuildableName = "ReactNavigation-tvOS.app"
+            BlueprintName = "ReactNavigation-tvOS"
+            ReferencedContainer = "container:ReactNavigation.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -94,9 +94,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "simp-tvOS.app"
-            BlueprintName = "simp-tvOS"
-            ReferencedContainer = "container:simp.xcodeproj">
+            BuildableName = "ReactNavigation-tvOS.app"
+            BlueprintName = "ReactNavigation-tvOS"
+            ReferencedContainer = "container:ReactNavigation.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -113,9 +113,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D02E47A1E0B4A5D006451C7"
-            BuildableName = "simp-tvOS.app"
-            BlueprintName = "simp-tvOS"
-            ReferencedContainer = "container:simp.xcodeproj">
+            BuildableName = "ReactNavigation-tvOS.app"
+            BlueprintName = "ReactNavigation-tvOS"
+            ReferencedContainer = "container:ReactNavigation.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

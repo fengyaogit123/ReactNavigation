@@ -1,4 +1,4 @@
-package com.simp;
+package com.reactnavigation;
 
 import android.app.Application;
 
